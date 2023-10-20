@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:black;
+}
+#container{
+    width: 80%;
+    margin: auto;
+}
+
+
+h1 {
+    background-color: white;
+    color: gray;
+
+}
+
+h2,h3{
+    background: #cccccc;
+}
+.titol_destacat{
+    font-size: 2em;
+}
+a{
+    color: #02a824;
+    text-decoration: none;
+}
+a.estil2{
+    text-decoration: underline;
+}
+.estil2{
+    color:#b80312;
+}
+
+
+strong{
+    color:green;
+    text-decoration: underline;
+}
+.paragraf2 strong{
+    color:green;
+    text-decoration: underline;
+}
+
+.color_lila{
+    color:#800199;
+}
+
